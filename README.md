@@ -23,12 +23,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animated-website.git
+   git clone https://github.com/ahtishamkhan5678/Animated_Website_Nextjs.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd animated-website
+   cd project-name
    ```
 
 3. Install dependencies:
@@ -67,7 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the creators of **Next.js** and the animation libraries used.
 - Inspiration from various web development resources and communities.
 
-## Contact
-For any questions or feedback, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+
